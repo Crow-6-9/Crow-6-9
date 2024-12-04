@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working to become a Full Stack Developer.<br>🙋‍♂️Looking to collaborate with passionate Developers.<br>🧑‍💻Currently, working as a Java Backend Developer for TechPlace Solutions Pvt. Ltd<br>🔎Looking for freelancing developer roles.<br>💭Ask me about Web-Hosting, cPanel, APIs, DSA, Python.<br>
+🔭 Data Analyst.<br>🙋‍♂️Looking to collaborate with Data enthusiastic .<br>🧑‍💻PG. Dimploma in Big Data Analytics <br>🔎Looking for freelancing developer roles.<br>💭Ask me about Web-Hosting, cPanel, APIs, DSA, Python, Hadoop, PySpark, Kafka, Linux , AWS & ML .<br>
 
 
 ## 🌐 Socials:
