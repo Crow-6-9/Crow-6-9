@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Data Analyst.<br>🙋‍♂️Looking to collaborate with Data enthusiastic .<br>🧑‍💻PG. Dimploma in Big Data Analytics <br>🔎Looking for freelancing developer roles.<br>💭Ask me about Web-Hosting, cPanel, APIs, DSA, Python, Hadoop, PySpark, Kafka, Linux , AWS & ML .<br>
+🔭 Data Analyst.<br>🙋‍♂️Looking to collaborate with Data enthusiastic .<br>🧑‍💻PG. Diploma in Big Data Analytics <br>🔎Looking for freelancing developer roles.<br>💭Ask me about Web-Hosting, cPanel, APIs, DSA, Python, Hadoop, PySpark, Kafka, Linux , AWS & ML .<br>
 
 
 ## 🌐 Socials:
